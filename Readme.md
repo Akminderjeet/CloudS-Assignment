@@ -24,9 +24,9 @@ Follow the steps below to set up and run the project.
 
    ```sh
    cd server
+   npm install
+   node index.js
 
-npm install
-node index.js
 The server will run on port 5000.
 
 2.  Open another terminal and navigate to the `client` folder:
