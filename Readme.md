@@ -20,6 +20,8 @@ Follow the steps below to set up and run the project.
 
 ### Backend Setup
 
+Edit index.js file and add your mongo-url
+
 1. Open your terminal and navigate to the `server` folder:
 
    ```sh
@@ -28,6 +30,10 @@ Follow the steps below to set up and run the project.
    node index.js
 
 The server will run on port 5000.
+
+
+### Frontend Setup
+
 
 2.  Open another terminal and navigate to the `client` folder:
 
